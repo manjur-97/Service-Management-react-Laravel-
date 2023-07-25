@@ -1,0 +1,21 @@
+h3 {
+
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    border-radius: 5px;
+}
+#button_p{
+    margin-bottom: 10px;
+    background-color: #00A064;
+    padding-top: 10px;
+    color: white;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
